@@ -1,0 +1,5 @@
+C:\Users\Андрей\Desktop\Graph\DiGraph\DiGraph\bin\Debug\DiGraph.dll
+C:\Users\Андрей\Desktop\Graph\DiGraph\DiGraph\bin\Debug\DiGraph.pdb
+C:\Users\Андрей\Desktop\Graph\DiGraph\DiGraph\obj\Debug\DiGraph.dll
+C:\Users\Андрей\Desktop\Graph\DiGraph\DiGraph\obj\Debug\DiGraph.pdb
+C:\Users\Андрей\Desktop\Graph\DiGraph\DiGraph\obj\Debug\DiGraph.csprojResolveAssemblyReference.cache

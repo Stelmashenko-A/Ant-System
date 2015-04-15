@@ -1,0 +1,8 @@
+C:\Users\Андрей\Desktop\Graph\DiGraph\ConsoleInterfase\bin\Debug\ConsoleInterfase.exe.config
+C:\Users\Андрей\Desktop\Graph\DiGraph\ConsoleInterfase\obj\Debug\ConsoleInterfase.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Graph\DiGraph\ConsoleInterfase\bin\Debug\ConsoleInterfase.exe
+C:\Users\Андрей\Desktop\Graph\DiGraph\ConsoleInterfase\bin\Debug\ConsoleInterfase.pdb
+C:\Users\Андрей\Desktop\Graph\DiGraph\ConsoleInterfase\bin\Debug\DiGraph.dll
+C:\Users\Андрей\Desktop\Graph\DiGraph\ConsoleInterfase\bin\Debug\DiGraph.pdb
+C:\Users\Андрей\Desktop\Graph\DiGraph\ConsoleInterfase\obj\Debug\ConsoleInterfase.exe
+C:\Users\Андрей\Desktop\Graph\DiGraph\ConsoleInterfase\obj\Debug\ConsoleInterfase.pdb
